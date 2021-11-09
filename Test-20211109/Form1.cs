@@ -20,7 +20,7 @@ namespace Test_20211109
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            banka = new Banka("Pavel Soukup", 3000, "84845/45");
+            banka = new Banka("Daniel Bohatec", 1000, "256+65/2700");
             labelJmeno.Text = banka.jmeno;
             labelCisloUctu.Text = banka.cisloUctu.ToString();
             labelAktualni.Text = banka.aktualniZustatek.ToString();

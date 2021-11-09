@@ -20,8 +20,6 @@ namespace Test_20211109
         public int tydenniLimit = 1000;
         public int platebniLimit = 5000;
 
-        public float kontokorentLimit = -200;
-        public bool kontokorent;
         public Banka(string jmeno, float aktualniZustatek, string cisloUctu)
         {
             this.jmeno = jmeno;
