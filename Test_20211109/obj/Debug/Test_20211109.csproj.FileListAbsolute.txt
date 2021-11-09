@@ -1,0 +1,10 @@
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\bin\Debug\Test_20211109.exe.config
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\bin\Debug\Test_20211109.exe
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\bin\Debug\Test_20211109.pdb
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.csprojAssemblyReference.cache
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.Form1.resources
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.Properties.Resources.resources
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.csproj.GenerateResource.cache
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.csproj.CoreCompileInputs.cache
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.exe
+C:\Users\bohatec.daniel\Downloads\Test_20211109-master\Test_20211109\obj\Debug\Test_20211109.pdb
